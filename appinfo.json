@@ -1,0 +1,24 @@
+{
+  "uuid": "843e198c-486e-4064-bde0-7d94f96d86a4",
+  "shortName": "Notif.Face",
+  "longName": "Notification Face",
+  "companyName": "rdkl.us",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+    	{
+    		"type": "png",
+    		"name": "MENU_ICON",
+    		"file": "images/notification-face-icon.png",
+    		"menuIcon": "yes"
+    	}
+    ]
+  }
+}
